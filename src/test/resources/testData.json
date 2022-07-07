@@ -1,13 +1,13 @@
 {
-  "response200" : "200",
   "userDataUserId" : "10",
   "userDataId" : "99",
-  "response404" : "404",
   "emptyBody" : "{}",
-  "response201" : "201",
   "titleLength" : "10",
   "bodyLength" : "20",
   "userUserId" : "1",
   "userId" : "101",
-  "userIndex" : "4"
+  "userIndex" : "4",
+  "URL99" : "/99",
+  "URL150" : "/150",
+  "URL5" : "/5"
 }
