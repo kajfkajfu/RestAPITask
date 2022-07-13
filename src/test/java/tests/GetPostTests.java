@@ -79,8 +79,4 @@ public class GetPostTests {
         Assert.assertEquals(actualUser, expectedUser);
     }
 
-    @Test
-    private void extraCheck() {
-        Assert.assertEquals(10, 10);
-    }
 }
