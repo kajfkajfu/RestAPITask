@@ -78,9 +78,4 @@ public class GetPostTests {
                 Integer.parseInt(JsonUtils.getTestValue("/userIndex")));
         Assert.assertEquals(actualUser, expectedUser);
     }
-
-    @Test
-    private void extraCheck() {
-        Assert.assertEquals(10, 10);
-    }
 }
